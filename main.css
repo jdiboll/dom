@@ -1,6 +1,18 @@
 body {
 	text-align: center;
 	color: white;
-	background-color: #62777a;
-	
+	/*background-color: #62777a;*/
+	font-size: 28px;
+	font-family: 'Shadows Into Light', cursive;
+	background-image: url(http://blog.hostbaby.com/wp-content/uploads/2013/07/scuffedstatic_blue1400x900.jpg);
+}
+#num_one {
+	border-radius: 12px;
+}
+#num_two {
+	border-radius: 12px;
+}
+#calculateBtn {
+	border-radius: 50px;
+
 }

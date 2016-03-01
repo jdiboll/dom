@@ -1,13 +1,6 @@
 body {
-	background-color: #345;
-	margin: 0;
+	text-align: center;
 	color: white;
-}
-
-
-h1 {
-	color: #ccc;
-}
-.selected {
-	background-color: orange;
+	background-color: #62777a;
+	
 }
